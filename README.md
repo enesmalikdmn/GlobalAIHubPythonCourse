@@ -1,2 +1,2 @@
-# intro-to-python
+# GlobalAIHubPythonCourse
 introduction to python 
